@@ -1,0 +1,196 @@
+Age,Gender,Academic_Level,Primary_Platform,Daily_Usage_Hours,Device_Type,Sleep_Duration_Hours,Mental_Health_Index,Academic_Performance_GPA
+19,Female,Undergraduate,Snapchat,7.5,Smartphone,5.9,73,2.73
+19,Female,Undergraduate,Instagram,4.6,Smartphone,7.9,90,3.21
+17,Female,High School,TikTok,10.9,Smartphone,5.2,70,3
+16,Female,High School,YouTube,6,Tablet,7.6,82,3.42
+17,Male,High School,LinkedIn,3.3,Smartphone,7.6,84,3.41
+16,Male,High School,TikTok,6.2,Smartphone,5.9,66,3.21
+20,Male,Undergraduate,TikTok,5.6,Smartphone,8.3,88,3.72
+19,Female,Undergraduate,TikTok,1.2,Smartphone,8.1,95,3.37
+18,Female,Undergraduate,YouTube,3.3,Smartphone,6.4,88,3.59
+18,Female,Undergraduate,Reddit,4.7,Smartphone,7.9,96,3.66
+15,Female,High School,TikTok,4.4,Smartphone,5.8,83,3.22
+20,Male,Undergraduate,LinkedIn,7.8,Smartphone,7.2,76,3.08
+19,Female,Undergraduate,TikTok,9.5,Smartphone,5.3,68,3.14
+23,Non-Binary,Undergraduate,Instagram,1.9,Smartphone,8.9,95,3.86
+19,Male,Undergraduate,YouTube,6.6,Tablet,5.7,64,2.98
+19,Female,Undergraduate,Instagram,2.6,Smartphone,7.3,85,3.57
+18,Male,Undergraduate,X (Twitter),2.3,Tablet,6.4,84,3.64
+17,Male,High School,YouTube,7.2,Smartphone,6.4,75,3.52
+19,Female,Undergraduate,Instagram,4.7,Smartphone,6.5,88,3.47
+20,Female,Undergraduate,Reddit,4.7,Smartphone,6.9,82,3.7
+17,Male,High School,Instagram,3.5,Smartphone,7.9,94,3.75
+16,Female,High School,Instagram,2.4,Smartphone,7.4,98,4
+23,Male,Postgraduate,YouTube,7.4,Laptop/PC,6.3,68,2.82
+17,Female,High School,Instagram,11.2,Smartphone,5.2,54,2.69
+18,Female,Undergraduate,YouTube,3.4,Smartphone,8.2,90,4
+20,Female,Undergraduate,Instagram,3,Smartphone,8.8,94,3.5
+20,Female,Undergraduate,Instagram,4.3,Smartphone,8.1,95,3.37
+19,Male,Undergraduate,Snapchat,4.7,Laptop/PC,8.4,93,3.81
+18,Female,Undergraduate,Instagram,3.6,Smartphone,7.5,94,3.35
+18,Male,Undergraduate,YouTube,3.8,Smartphone,7.1,91,3.52
+18,Male,Undergraduate,YouTube,3.6,Smartphone,6.7,89,3.76
+20,Male,Undergraduate,X (Twitter),8.3,Smartphone,5.6,64,3.35
+17,Female,High School,Reddit,3.4,Smartphone,6.6,92,3.83
+18,Female,Undergraduate,YouTube,1.1,Smartphone,7.3,95,3.73
+21,Female,Undergraduate,LinkedIn,4.7,Smartphone,6.8,84,3.41
+18,Male,Undergraduate,YouTube,4.8,Smartphone,6.4,75,3.69
+20,Male,Undergraduate,YouTube,2,Smartphone,7.5,92,4
+20,Male,Undergraduate,TikTok,7.1,Smartphone,6.2,65,3.39
+18,Female,Undergraduate,TikTok,8,Smartphone,5.5,66,2.59
+18,Male,Undergraduate,TikTok,5.8,Laptop/PC,5.7,79,3.34
+16,Female,High School,TikTok,4.3,Smartphone,6.8,81,3.62
+19,Male,Undergraduate,YouTube,3.9,Smartphone,6.9,90,3.44
+20,Male,Undergraduate,Instagram,8.3,Smartphone,6.3,76,3.21
+21,Female,Undergraduate,Instagram,7.6,Smartphone,5.9,70,
+17,Male,High School,TikTok,4.3,Smartphone,5.4,80,3.45
+19,Female,Undergraduate,YouTube,4,Smartphone,6.5,78,3.28
+21,Male,Undergraduate,Reddit,3.5,Smartphone,6.6,94,4
+17,Female,High School,Instagram,4.1,Smartphone,5.8,86,3.11
+21,Female,Undergraduate,TikTok,5.9,Smartphone,6.5,69,2.89
+15,Female,High School,TikTok,8.6,Smartphone,6.4,66,3.38
+19,Prefer not to say,High School,X (Twitter),2.9,Smartphone,6.7,95,3.57
+19,Female,Undergraduate,YouTube,5.9,Smartphone,6.2,64,3.05
+22,Male,Postgraduate,YouTube,4.9,Laptop/PC,7.8,76,3.9
+17,Female,High School,Instagram,3.9,Smartphone,7.2,81,3.56
+16,Female,High School,LinkedIn,6.9,Smartphone,6.7,78,3.42
+21,Female,Undergraduate,TikTok,4,Smartphone,6.6,79,3.39
+21,Female,Undergraduate,TikTok,3.8,Smartphone,6.7,92,3.48
+17,Male,High School,Snapchat,2.7,Smartphone,8.7,98,3.59
+26,Female,Undergraduate,Instagram,3.1,Smartphone,8.4,90,4
+18,Male,Undergraduate,TikTok,4.1,Laptop/PC,6.4,86,3.95
+18,Male,Undergraduate,Snapchat,5.4,Smartphone,7.8,87,3.74
+21,Male,Undergraduate,Reddit,8,Smartphone,5.7,68,3.19
+21,Female,Undergraduate,YouTube,7.6,Smartphone,6.7,73,3.34
+19,Male,Undergraduate,Snapchat,2.8,Smartphone,6.6,71,3.41
+16,Female,High School,Instagram,3,Smartphone,7.6,86,3.5
+19,Female,Undergraduate,X (Twitter),4.2,Smartphone,7.9,83,3.6
+19,Female,Undergraduate,TikTok,2.5,Smartphone,6.9,83,3.79
+20,Female,Undergraduate,YouTube,4.6,Smartphone,5.2,69,3.71
+18,Male,Undergraduate,YouTube,4.1,Smartphone,7.5,88,3.66
+19,Female,Undergraduate,Instagram,4.4,Smartphone,7.1,91,3.56
+21,Female,Undergraduate,Snapchat,10.2,Smartphone,6.1,62,2.7
+18,Female,Undergraduate,Instagram,3,Smartphone,7.4,74,3.6
+19,Male,Undergraduate,Snapchat,6.9,Smartphone,6,79,3.2
+18,Male,Undergraduate,LinkedIn,4,Smartphone,7.1,80,3
+19,Female,Undergraduate,Reddit,8.3,Smartphone,7.2,72,3.53
+17,Female,High School,YouTube,6.1,Smartphone,6,70,3.48
+19,Male,Undergraduate,Instagram,4.8,Smartphone,7.8,84,3.39
+21,Male,Undergraduate,YouTube,3.6,Smartphone,7.2,87,3.67
+20,Prefer not to say,Undergraduate,Snapchat,6.2,Smartphone,6.8,82,3.41
+18,Female,Undergraduate,TikTok,8.5,Smartphone,5.5,67,2.79
+18,Female,Undergraduate,TikTok,4.5,Smartphone,8,91,3.69
+20,Male,Undergraduate,TikTok,3.3,Smartphone,9.7,89,3.69
+17,Female,High School,Snapchat,7.6,Smartphone,6.4,70,3.33
+19,Female,Undergraduate,X (Twitter),3.2,Smartphone,6.1,75,3.38
+18,Male,Undergraduate,Instagram,3.1,Smartphone,8.5,88,3.56
+16,Male,High School,Instagram,3.2,Laptop/PC,8.8,95,3.85
+18,Female,Undergraduate,YouTube,6.8,Smartphone,6.6,66,3.03
+20,Male,Undergraduate,TikTok,3.1,Tablet,7.1,89,3.76
+18,Non-Binary,Undergraduate,Reddit,14,Smartphone,4.7,50,2
+18,Female,Undergraduate,LinkedIn,2.6,Smartphone,7.3,89,3.75
+19,Male,Undergraduate,Instagram,5.2,Smartphone,5.6,89,3.37
+20,Male,Undergraduate,TikTok,3,Smartphone,6.4,92,3.44
+18,Female,Undergraduate,TikTok,10.8,Tablet,5.8,50,2.32
+17,Female,High School,Instagram,8.8,Smartphone,4.3,68,2.7
+20,Male,Undergraduate,Instagram,5.8,Smartphone,4.8,74,3.45
+21,Female,Undergraduate,Instagram,5.5,Smartphone,6.5,77,3.11
+19,Female,Undergraduate,Instagram,3,Laptop/PC,9.6,98,4
+19,Female,Undergraduate,X (Twitter),3.5,Smartphone,8.7,80,3.65
+17,Male,High School,TikTok,6.6,Smartphone,7.3,85,3.22
+21,Male,Undergraduate,YouTube,6.2,Laptop/PC,6.9,76,3.99
+21,Non-Binary,Undergraduate,X (Twitter),3.1,Smartphone,7.7,98,3.67
+23,Male,Postgraduate,LinkedIn,4.7,Smartphone,7.4,84,3.82
+17,Female,High School,Reddit,12.3,Tablet,4.8,56,2.88
+19,Non-Binary,Undergraduate,Snapchat,4.4,Smartphone,8.3,97,3.58
+18,Female,Undergraduate,Instagram,5.7,Laptop/PC,6,72,3.42
+19,Male,Undergraduate,Snapchat,3.2,Smartphone,7.4,78,3.74
+17,Male,High School,TikTok,2,Smartphone,7.7,93,4
+18,Female,Undergraduate,YouTube,6.3,Smartphone,3.7,65,3.52
+20,Female,Undergraduate,YouTube,6.9,Smartphone,7.2,79,3.22
+22,Female,Postgraduate,X (Twitter),4.3,Smartphone,7.1,86,3.45
+16,Female,High School,Instagram,6.6,Smartphone,6.8,85,3.48
+22,Male,Undergraduate,Instagram,5.3,Smartphone,5.8,76,3.38
+20,Female,Undergraduate,Instagram,5.9,Smartphone,7.1,83,3.31
+18,Male,High School,TikTok,11.6,Smartphone,5.1,68,2.85
+18,Female,High School,TikTok,6.6,Smartphone,6.2,80,3.82
+18,Female,Undergraduate,YouTube,7,Smartphone,7.2,83,3.21
+17,Male,High School,TikTok,2.8,Smartphone,8.5,97,3.99
+21,Non-Binary,Undergraduate,Instagram,4.2,Smartphone,6.6,76,3.44
+20,Female,Undergraduate,Instagram,4.5,Smartphone,7.9,91,3.62
+20,Male,Undergraduate,Snapchat,4.1,Smartphone,6.9,90,3.79
+21,Female,Undergraduate,Instagram,4.4,Smartphone,6.1,87,3.44
+19,Male,Undergraduate,Reddit,4.6,Laptop/PC,6.9,81,3.5
+18,Male,High School,YouTube,3.2,Smartphone,6.9,88,3.88
+17,Female,High School,Instagram,4.2,Smartphone,7.1,74,3.42
+22,Male,Postgraduate,Instagram,6.1,Smartphone,7.5,78,3.31
+18,Female,Undergraduate,Instagram,5.5,Smartphone,8.1,89,4
+18,Female,Undergraduate,TikTok,4.5,Smartphone,5.1,69,3.4
+18,Female,Undergraduate,X (Twitter),5.7,Tablet,7,84,3.58
+22,Female,Postgraduate,TikTok,1.2,Smartphone,8.9,96,3.75
+17,Female,High School,Instagram,5.8,Smartphone,5.2,70,3.08
+17,Female,High School,Instagram,1.7,Smartphone,7.3,78,4
+18,Female,Undergraduate,Instagram,9,Smartphone,5.4,57,2.72
+21,Female,Undergraduate,Reddit,6.1,Smartphone,6.3,72,2.84
+21,Male,Undergraduate,Instagram,4.1,Smartphone,7.2,98,3.9
+17,Female,High School,YouTube,5.7,Smartphone,6.4,80,3.07
+19,Female,Undergraduate,Instagram,4.2,Smartphone,7.6,98,3.78
+17,Male,High School,Instagram,6.5,Smartphone,4.8,62,3.3
+21,Female,Undergraduate,Instagram,2.1,Laptop/PC,7.2,90,3.69
+18,Female,Undergraduate,Snapchat,7.2,Smartphone,6.3,71,3.24
+20,Male,Undergraduate,X (Twitter),7.3,Smartphone,5.8,75,3
+19,Female,Undergraduate,YouTube,2.8,Smartphone,7,84,3.49
+19,Male,Undergraduate,Reddit,8,Smartphone,5.1,68,3.64
+22,Male,Postgraduate,Instagram,4.9,Smartphone,8.2,89,3.42
+17,Male,High School,YouTube,6.3,Smartphone,7.4,83,3.12
+18,Prefer not to say,Undergraduate,Instagram,1.8,Smartphone,7.3,97,3.92
+19,Female,Undergraduate,YouTube,10.3,Smartphone,5.7,53,3.11
+18,Female,Undergraduate,Instagram,4.9,Smartphone,8.4,86,4
+21,Male,Undergraduate,Reddit,3.7,Smartphone,6.8,70,3.18
+18,Female,Undergraduate,TikTok,5.7,Smartphone,6.7,76,3.5
+19,Male,Undergraduate,TikTok,3.8,Laptop/PC,7.3,80,3.47
+17,Male,High School,YouTube,4.3,Smartphone,7.8,86,3.97
+15,Female,High School,TikTok,4.7,Smartphone,8.5,94,4
+18,Female,Undergraduate,Instagram,5.5,Smartphone,6.1,79,3.36
+16,Female,High School,TikTok,10,Smartphone,5.5,63,3.46
+19,Male,High School,TikTok,4.3,Smartphone,5.7,74,3.48
+18,Female,Undergraduate,YouTube,2.9,Smartphone,6.6,88,3.8
+18,Male,Undergraduate,Snapchat,4.5,Smartphone,7.1,74,3.77
+20,Female,Undergraduate,Instagram,4.3,Smartphone,8,98,3.8
+15,Male,High School,TikTok,4.5,Smartphone,7.6,88,3.61
+19,Female,Undergraduate,Instagram,4.2,Smartphone,7.2,80,3.41
+19,Female,High School,X (Twitter),2.7,Smartphone,5.8,82,3.3
+20,Male,Undergraduate,TikTok,4.6,Smartphone,7.8,92,3.67
+19,Prefer not to say,Undergraduate,TikTok,4.7,Smartphone,5.7,86,3.45
+26,Non-Binary,Postgraduate,Instagram,4.7,Smartphone,7,82,3.74
+19,Male,Undergraduate,TikTok,5.2,Laptop/PC,5.9,85,3.68
+19,Female,Undergraduate,Instagram,6,Smartphone,6,75,3.08
+18,Male,Undergraduate,Instagram,2.7,Laptop/PC,6.7,86,3.86
+17,Female,High School,Snapchat,9.2,Smartphone,5.4,60,2.97
+20,Female,Undergraduate,Instagram,7.4,Tablet,6.1,78,3.3
+21,Male,Undergraduate,Instagram,7.8,Smartphone,5.7,65,3.22
+18,Female,Undergraduate,YouTube,13.6,Smartphone,4.5,41,2.51
+22,Female,Postgraduate,TikTok,7.9,Smartphone,5.5,67,3.45
+19,Male,High School,Instagram,4.8,Smartphone,6.3,91,3.55
+20,Female,Undergraduate,Snapchat,8.5,Smartphone,6.1,64,2.54
+19,Female,Undergraduate,TikTok,7.3,Smartphone,4.5,69,3.39
+21,Male,Undergraduate,Instagram,6.6,Smartphone,6.2,68,2.89
+21,Female,Undergraduate,Instagram,5.7,Smartphone,5.3,72,3.26
+21,Prefer not to say,Undergraduate,TikTok,5.7,Smartphone,6.4,68,3.71
+16,Non-Binary,High School,TikTok,2.2,Smartphone,7.9,88,4
+20,Female,Undergraduate,Snapchat,7.9,Smartphone,6.4,76,3.24
+25,Male,Postgraduate,Instagram,4.9,Smartphone,5.7,78,4
+17,Male,High School,YouTube,5.8,Smartphone,5.2,71,3.01
+17,Male,High School,Instagram,4.4,Smartphone,8.2,98,3.58
+16,Female,High School,TikTok,14,Smartphone,5.2,42,2.19
+18,Female,Undergraduate,YouTube,7.9,Smartphone,5.6,58,2.98
+20,Female,Undergraduate,Instagram,3.8,Smartphone,8.3,91,4
+19,Female,Undergraduate,Instagram,3.3,Laptop/PC,6.2,80,3.94
+20,Female,Undergraduate,TikTok,7.4,Laptop/PC,5.1,87,3.42
+17,Male,High School,YouTube,4.4,Smartphone,8.1,89,3.18
+19,Male,Undergraduate,Instagram,3.6,Smartphone,8.2,93,3.31
+22,Male,Postgraduate,LinkedIn,7,Laptop/PC,4.4,57,3.32
+20,Male,Undergraduate,TikTok,2,Smartphone,7.6,87,3.45
+18,Male,Undergraduate,Instagram,2.4,Smartphone,6.4,83,3.41
+18,Female,Undergraduate,Instagram,5.1,Smartphone,7.8,95,2.89
+17,Male,High School,TikTok,4.1,Laptop/PC,6,90,3.46
